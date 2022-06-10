@@ -1,0 +1,20 @@
+
+MERN Stack
+MongoDB
+MySQL
+Node.js
+express.js
+
+Python (Programming Language)
+Pandas
+NumPy
+Django REST Framework
+
+
+React.js || 
+nextjs, 
+redux,
+
+Blockchain
+web3js, ethers.js, truffle, hardhat, brownie,
+Solidity (ERC20 === crypto tokens, ERC721 === NFT, ERC1152 === DeFi )
